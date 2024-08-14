@@ -5,4 +5,4 @@ Since the Goodreads website no longer provides an API, and it is impossible to a
 
 For sentiment analysis of book reviews, we used the book-reviews-sentiment model provided by Pianzola. This sentiment analysis model is based on the RoBERTa model, which is a pre-trained deep learning model. If you want to know more, you can refer to the following link: https://huggingface.co/fpianz/roberta-english-book-reviews-sentiment
 
-We saved the output to a new csv file in the corresponding folder. You can find the corresponding data for each Jupyter in the zip.
+We saved the output to a new csv file in the corresponding folder. You can find the corresponding data for each Jupyter Notebook in the zip.
